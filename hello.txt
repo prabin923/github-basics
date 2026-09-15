@@ -1,6 +1,6 @@
 ### Hi there 👋. Welcome To My Github Account.☺
 
-hello 
+hello from conflict branch 
 i am learning git hub
 this line should not be commited
 accidental line 
